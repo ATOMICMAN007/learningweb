@@ -1,5 +1,5 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/web,node,dotenv,virtualenv,database,python
+# Created by https://www.toptal.com/developers/gitignore/api/node,dotenv,virtualenv,database,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=web,node,dotenv,virtualenv,database,python
 
 ### Database ###
@@ -284,20 +284,5 @@ cython_debug/
 [Ss]cripts
 pyvenv.cfg
 pip-selfcheck.json
-
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
 
 # End of https://www.toptal.com/developers/gitignore/api/web,node,dotenv,virtualenv,database,python

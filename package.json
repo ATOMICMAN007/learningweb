@@ -1,0 +1,25 @@
+{
+  "name": "learningweb.github.io",
+  "version": "1.0.0",
+  "description": "Learning web stuff are we?\r Let's go.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATOMICMAN007/learningweb.github.io.git"
+  },
+  "keywords": [],
+  "author": "ATOMICMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ATOMICMAN007/learningweb.github.io/issues"
+  },
+  "homepage": "https://github.com/ATOMICMAN007/learningweb.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16"
+  }
+}
